@@ -4,4 +4,4 @@ shout(hello) {
 }
 sayHiGrandma;
 whispering(hello);
-return 'I love you'.toUpperCase('i love u Grandma');
+return 'I love you'.toLowerCase('i love u Grandma');
